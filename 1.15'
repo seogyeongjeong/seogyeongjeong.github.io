@@ -1,0 +1,9 @@
+Successfully installed ffi-1.17.0-x64-mingw-ucrt
+Parsing documentation for ffi-1.17.0-x64-mingw-ucrt
+Installing ri documentation for ffi-1.17.0-x64-mingw-ucrt
+Done installing documentation for ffi after 2 seconds
+1 gem installed
+
+A new release of RubyGems is available: 3.4.19 → 3.5.17!
+Run `gem update --system 3.5.17` to update your installation.
+
