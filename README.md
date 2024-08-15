@@ -1,2 +1,5 @@
-# seogyeongjeong.github.io
-Official Hompage
+<html>
+	<body>
+		Hello! This is seogyeong's official homepage!
+	</body>
+</html>
