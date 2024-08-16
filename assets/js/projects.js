@@ -28,15 +28,15 @@ let render_projects = (slug) => {
             categories: ['GNN', 'team project']
         },
         
-        {
-            image: 'assets/images/collage.jpg',
-            link: 'https://github.com/abhn/Marvel',
-            title: 'Marvel',
-            demo: false,
-            technologies: ['Android', 'OpenCV'],
-            description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
-            categories: ['featured', 'native']
-        },
+        // {
+        //     image: 'assets/images/collage.jpg',
+        //     link: 'https://github.com/abhn/Marvel',
+        //     title: 'Marvel',
+        //     demo: false,
+        //     technologies: ['Android', 'OpenCV'],
+        //     description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
+        //     categories: ['featured', 'native']
+        // },
         {
             image: 'assets/images/mpw.jpg',
             link: 'https://github.com/abhn/mpw',
