@@ -16,7 +16,7 @@ let render_projects = (slug) => {
             title: 'Probe based BERT syntatic analysis',
             technologies: ['python', 'probe', 'NLP'],
             description: "Demonstration of BERT model showing variability in its ability to learn the syntax trees of different languages and changing some characteristics of the same basic model affects its ability to retain syntactic knowledge.",
-            categories: ['NLP', 'team project']
+            categories: ['NLP', 'school project']
         },
         {
             image: 'assets/images/teng.jpg',
@@ -25,7 +25,7 @@ let render_projects = (slug) => {
             // demo: 'https://mporter.co',
             technologies: ['Python', 'GNN', 'Dynamic Graph'],
             description: "Constructed a new dynamic prediction model based on node prediction, and used our model for Earthquake prediction.",
-            categories: ['GNN', 'team project']
+            categories: ['GNN', 'school project']
         },
         
         // {
@@ -37,15 +37,15 @@ let render_projects = (slug) => {
         //     description: "Attendance marking tool that uses face recognition for marking attendance and firebase for tracking and analytics.",
         //     categories: ['featured', 'native']
         // },
-        {
-            image: 'assets/images/mpw.jpg',
-            link: 'https://github.com/abhn/mpw',
-            title: 'Master Password',
-            demo: 'https://www.nagekar.com/mpw',
-            technologies: ['Semantic UI', 'CSS3'],
-            description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
-            categories: ['featured', 'security']
-        },
+        // {
+        //     image: 'assets/images/mpw.jpg',
+        //     link: 'https://github.com/abhn/mpw',
+        //     title: 'Master Password',
+        //     demo: 'https://www.nagekar.com/mpw',
+        //     technologies: ['Semantic UI', 'CSS3'],
+        //     description: "Master Password is an ingenious password solution that makes your passwords truly impossible to lose.",
+        //     categories: ['featured', 'security']
+        // },
         {
             image: 'assets/images/social-share-count.jpeg',
             link: 'https://github.com/abhn/Social-Share-Counts',
