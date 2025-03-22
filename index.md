@@ -9,7 +9,7 @@ layout: default
   <img class="profile-picture" src="seogyeong.jpg" alt="Profile Picture">
 
   <div class="social-icons">
-    <!-- <a href="mailto:sg.jeong28@kaist.ac.kr">
+    <a href="mailto:sg.jeong28@kaist.ac.kr">
       <img src="logo/email-icon.png" alt="Email" />
     </a>
     <a href="https://x.com/sgjeong_evelyn" target="_blank">
@@ -20,7 +20,7 @@ layout: default
     </a>
     <a href="https://www.linkedin.com/in/seogyeong-jeong-683371205/" target="_blank">
       <img src="logo/linkedin-icon.png" alt="LinkedIn" />
-    </a> -->
+    </a>
     <a href="https://github.com/seogyeongjeong" target="_blank">
       <img src="logo/github-icon.png" alt="Github" />
     </a>
