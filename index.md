@@ -50,6 +50,14 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
     - B.S. in [School of Computing](https://cs.kaist.ac.kr/)(Major) and [Mathematical Sciences](https://mathsci.kaist.ac.kr/home/)(Minor), [Electrical Engineering](https://ee.kaist.ac.kr/) and [Bio and Brain engineering](https://bioeng.kaist.ac.kr/) (Individually designed major)
 
 
+## Work Experience
+- [User & Information Lab](https://uilab.kr/) *Jun 2022 - Aug 2024*
+  - *Research Intern*
+  - Graph Neural Network, Text sentiment classification
+- [Emerging Nano Technology and Integrated Systems Lab](https://shinhyunlab.kaist.ac.kr/) *Jun 2021 - Feb 2022*
+  - *Research Intern*
+  - Artificial neuron array based Neuromorphic computing
+
 ## Teaching Experiences
 - KAIST Computer Science Department Undergraduate Course \[Introduction to Computer Programming\] (Mar 2025 - Present)
 
