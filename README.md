@@ -1,1 +1,0 @@
-# seogyeongjeong.github.io
