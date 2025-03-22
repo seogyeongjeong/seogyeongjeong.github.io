@@ -2,9 +2,9 @@
 layout: default
 is_contact: true
 ---
-My Last Name: jeong
-* Email(Primary): [sg.[My Last Name]28[at]kaist.ac.kr]
-* Email(Secondary): [sg.[My Last Name]28[at]google.com]
+Last Name: jeong
+* Email(Primary): [sg.[Last Name]28[at]kaist.ac.kr]
+* Email(Secondary): [sg.[Last Name]28[at]google.com]
 
 ---
 
