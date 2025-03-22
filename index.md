@@ -58,7 +58,7 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
   - *Research Intern*
   - Artificial neuron array based Neuromorphic computing
 
-## Teaching Experiences
+## Teaching Experience
 - KAIST Computer Science Department Undergraduate Course \[Introduction to Computer Programming\] (Mar 2025 - Present)
 
 <!-- 
