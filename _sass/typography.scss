@@ -79,6 +79,12 @@
     .social-icons a {
         width: 28px;
         height: 28px;
+
+        display: inline-block;
+        z-index: 2;
+        position: relative;
+        pointer-events: auto;
+      
     }
     
     .social-icons a img {
@@ -86,6 +92,7 @@
         height: 100%;
         object-fit: contain;
         transition: transform 0.2s ease;
+        display: block;
     }
     
     .social-icons a:hover img {
