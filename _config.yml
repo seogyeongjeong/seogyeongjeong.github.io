@@ -1,6 +1,6 @@
 title: SeogyeongJeong
 url: "https://seogyeongjeong.github.io/"
-baseurl: "/SeogyeongJeong"
+baseurl: "/seogyeongjeong"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
