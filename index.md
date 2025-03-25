@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <div class="profile-container">
-  <img class="profile-picture" src="seogyeong.jpg" alt="Profile Picture">
+  <img class="profile-picture" src="image/seogyeong.jpg" alt="Profile Picture">
 
   <div class="social-icons">
     <a href="mailto:sg.jeong28@kaist.ac.kr">
