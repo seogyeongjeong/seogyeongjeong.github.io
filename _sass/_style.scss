@@ -17,10 +17,13 @@ body {
 }
 a {
     text-decoration: none;
-    color: $accent;
+    // color: $accent;
+    color: #a98467;
+    transition: color 0.3s ease;
 }
 a:hover {
-    text-decoration: underline;
+    // text-decoration: underline;
+    color: #6c584c;
 }
 hr {
     border: 0;
