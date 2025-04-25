@@ -43,7 +43,7 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
 2. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. MSTS: A Multimodal Safety Test Suite for Vision-Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2501.10057)
 
 ## Education
-- **Korea Advanced Institue of Science and Technology (KAIST)** (Sep 2025 - Present)
+- **Korea Advanced Institue of Science and Technology (KAIST)** (Sep 2024 - Present)
     - M.S. in [School of Computing](https://cs.kaist.ac.kr/)
     - Advisor: Alice Oh
 - **Korea Advanced Institue of Science and Technology (KAIST)** (Feb 2019 - Aug 2024)
