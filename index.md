@@ -39,9 +39,12 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
 
 ## Publications
 
+1. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation. In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)* [\[ArXiv\]](https://arxiv.org/abs/2503.07237) [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
+2. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. MSTS: A Multimodal Safety Test Suite for Vision-Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2501.10057)
+
+## Others
+
 1. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language (2025) [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
-2. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation. In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)* [\[ArXiv\]](https://arxiv.org/abs/2503.07237) [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
-3. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. MSTS: A Multimodal Safety Test Suite for Vision-Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2501.10057)
 
 ## Education
 - **Korea Advanced Institue of Science and Technology (KAIST)** (Sep 2024 - Present)
