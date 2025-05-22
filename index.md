@@ -44,7 +44,7 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
 
 ## Others
 
-1. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language (2025) [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
+1. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
 
 ## Education
 - **Korea Advanced Institue of Science and Technology (KAIST)** (Sep 2024 - Present)
