@@ -38,14 +38,13 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
  Recently, I have been focusing on (1) Evaluation of LLM to enhance its reasoning on planning (2) Evaluation of LLM on its multilinguality (3) Application of AI in the aspect of cultural understanding and (4) Mechanistic Interpretibility of Language models. -->
 
 ## Publications
-
-1. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation. In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)* [\[ArXiv\]](https://arxiv.org/abs/2503.07237) [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
+1. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language. In *EMNLP 2025 Findings* [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
+2. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation. In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)* [\[ArXiv\]](https://arxiv.org/abs/2503.07237) [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
 
 ## Preprint
 
 1. Haeun Yu, **Seogyeong Jeong**, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. 2025. Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2508.08879)
-2. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
-3. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. MSTS: A Multimodal Safety Test Suite for Vision-Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2501.10057)
+2. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. MSTS: A Multimodal Safety Test Suite for Vision-Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2501.10057)
 
 
 ## Education
