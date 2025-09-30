@@ -69,7 +69,7 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
   - Artificial neuron array based Neuromorphic computing
 
 ## Teaching Experience
-- KAIST Computer Science Department Course [Introduction to Computer Programming](https://cs101.kaist.ac.kr/) *25S*
+- KAIST Computer Science Department Course [Introduction to Computer Programming](https://cs101.kaist.ac.kr/) *25S, 25F*
 
 <!-- 
 ## Typography
