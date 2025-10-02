@@ -38,7 +38,7 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
  Recently, I have been focusing on (1) Evaluation of LLM to enhance its reasoning on planning (2) Evaluation of LLM on its multilinguality (3) Application of AI in the aspect of cultural understanding and (4) Mechanistic Interpretibility of Language models. -->
 
 ## Publications
-1. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language. In *EMNLP 2025 (EMNLP-Findings 2025, Long)* [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
+1. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language. In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Long)*. Also presented at the *5th Workshop on Multilingual Representation Learning (MRL 2025)*. [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
 2. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation. In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)* [\[ArXiv\]](https://arxiv.org/abs/2503.07237) [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
 
 ## Preprint
