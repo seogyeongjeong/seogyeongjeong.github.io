@@ -48,9 +48,8 @@ My research interests lie in **Natural Language Processing(NLP)**, **Machine Lea
 
 
 ## Awards & Honors
-- **Excellence Award (2nd Place)**, 3rd AI Hackathon for Network Intelligence.  
-  Open AI Networking Korea (ONK) 2025, hosted by [AiNET Forum](https://ainet.or.kr/).  
-  *Team award with Jinseo Lee*
+- **Excellence Award (2nd Place)**, 3rd AI Hackathon for Network Intelligence(Top 2% among 94 teams).  
+  *Team award with [Jinseo Lee](https://allgot.github.io/)*
 
 ## Education
 - **Korea Advanced Institue of Science and Technology (KAIST)** (Sep 2024 - Present)
