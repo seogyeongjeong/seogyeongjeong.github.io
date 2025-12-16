@@ -29,8 +29,7 @@ layout: default
 
 
 Hi! I am a Master student at [KAIST School of Computing](https://cs.kaist.ac.kr/), working under the supervision of [Prof. Alice Oh](https://aliceoh9.github.io/). <br>
-My research interests lie in **Natural Language Processing(NLP)**, **Machine Learning(ML)**, and **Graph Neural Network(GNN)**. Recently, I have been focusing on (1) Evaluation of LLM to enhance its reasoning on planning (2) Evaluation of LLM on its multilinguality (3) Application of AI in the aspect of cultural understanding and (4) Mechanistic Interpretibility of Language models.
-
+My research interests lie in **Natural Language Processing (NLP)** and **Machine Learning (ML)**, with a focus on understanding and improving **large language models (LLMs)** at a more fundamental level. Recently, I have been particularly interested in (1) **evaluation of LLMs** for planning and decision-making, (2) **agent-based frameworks and efficiency** in LLM inference, and (3) **mechanistic interpretability** of language models to better understand and improve their training and inference behaviors.
 
 <!-- ## Research Interest
 
