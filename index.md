@@ -37,13 +37,14 @@ My research interests lie in **Natural Language Processing (NLP)** and **Machine
  Recently, I have been focusing on (1) Evaluation of LLM to enhance its reasoning on planning (2) Evaluation of LLM on its multilinguality (3) Application of AI in the aspect of cultural understanding and (4) Mechanistic Interpretibility of Language models. -->
 
 ## Publications
-1. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language. In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Long)*. Also presented at the *5th Workshop on Multilingual Representation Learning (MRL 2025)*. [\[ArXiv\]](https://arxiv.org/abs/2505.14395)
-2. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation. In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)* [\[ArXiv\]](https://arxiv.org/abs/2503.07237) [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
+1. **\*Seogyeong Jeong**, \*Kiwoong Park, Seyoung Song, Eunsu Kim, Ken E. Friedl, Jaeho Kim, Alice Oh. 2026. [\LoCar: Localization-Aware Evaluation of In-Vehicle Assistants through Fine-Grained Sociolinguistic Control.\](https://openreview.net/forum?id=THoHkUuqON#discussion) In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics(ACL) (Volume 6: Industry Track)* 
+2. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. [\MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language.\](https://arxiv.org/abs/2505.14395) In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Long)*. Also presented at the *5th Workshop on Multilingual Representation Learning (MRL 2025)*. 
+3. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. [\LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation.\](https://arxiv.org/abs/2503.07237) In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)*  [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
 
 ## Preprint
 
-1. Haeun Yu, **Seogyeong Jeong**, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. 2025. Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2508.08879)
-2. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. MSTS: A Multimodal Safety Test Suite for Vision-Language Models. *arXiv preprint* [\[ArXiv\]](https://arxiv.org/abs/2501.10057)
+1. Haeun Yu, **Seogyeong Jeong**, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. 2025. [\Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models.\](https://arxiv.org/abs/2508.08879) *arXiv preprint* 
+2. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. [\MSTS: A Multimodal Safety Test Suite for Vision-Language Models.\](https://arxiv.org/abs/2501.10057) *arXiv preprint* 
 
 
 ## Awards & Honors
@@ -59,6 +60,9 @@ My research interests lie in **Natural Language Processing (NLP)** and **Machine
 
 
 ## Work Experience
+- [NAVER AI LAB Backbone Team](https://naver-career.gitbook.io/en/positions/ai-ml/backbone-research) *Mar 2026 - Current*
+  - *Research Intern*
+  - Latent representation, LLM reasoning
 - [User & Information Lab](https://uilab.kr/) *Jun 2022 - Aug 2024*
   - *Research Intern*
   - Graph Neural Network, Text sentiment classification
