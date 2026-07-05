@@ -28,8 +28,13 @@ layout: default
 
 
 
-Hi! I am a Master student at [KAIST School of Computing](https://cs.kaist.ac.kr/), working under the supervision of [Prof. Alice Oh](https://aliceoh9.github.io/). <br>
-My research interests lie in **Natural Language Processing (NLP)** and **Machine Learning (ML)**, with a focus on understanding and improving **large language models (LLMs)** at a more fundamental level. Recently, I have been particularly interested in (1) **evaluation of LLMs** for planning and decision-making, (2) **agent-based frameworks and efficiency** in LLM inference, and (3) **mechanistic interpretability** of language models to better understand and improve their training and inference behaviors.
+Hi! I am a Master's student at [KAIST School of Computing](https://cs.kaist.ac.kr/), advised by [Prof. Alice Oh](https://aliceoh9.github.io/). My primary research interest is **reasoning in large language models (LLMs)**, with additional interests in **post-training** and **mechanistic interpretability**. 
+
+My research begins with understanding how reasoning behaviors arise from the internal representations and learning dynamics of LLMs. In particular, I am interested in how these behaviors vary across different **operations**, **languages**, **cultures**, and **values**. I use mechanistic interpretability to investigate the internal mechanisms underlying such variation and to identify where and why reasoning failures occur.
+
+Building on this understanding, I aim to gradually move from analysis to intervention: developing model-level methods that improve reasoning through **pretraining**, **post-training**, **alignment**, and **test-time control**. My long-term goal is to build **reliable, interpretable, and controllable LLMs** that reason robustly across diverse user contexts.
+
+
 
 <!-- ## Research Interest
 
