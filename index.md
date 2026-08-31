@@ -28,7 +28,7 @@ layout: default
 
 
 
-Hi! I am a Master's student at [KAIST School of Computing](https://cs.kaist.ac.kr/), advised by [Prof. Alice Oh](https://aliceoh9.github.io/). My primary research interest is **reasoning in large language models (LLMs)**, with additional interests in **post-training** and **mechanistic interpretability**. 
+Hi! I am a Ph.D. student at [KAIST School of Computing](https://cs.kaist.ac.kr/), advised by [Prof. Alice Oh](https://aliceoh9.github.io/). My primary research interest is **reasoning in large language models (LLMs)**, with additional interests in **post-training** and **mechanistic interpretability**. 
 
 My research begins with understanding how reasoning behaviors arise from the internal representations and learning dynamics of LLMs. In particular, I am interested in how these behaviors vary across different **operations**, **languages**, **cultures**, and **values**. I use mechanistic interpretability to investigate the internal mechanisms underlying such variation and to identify where and why reasoning failures occur.
 
@@ -42,10 +42,13 @@ Building on this understanding, I aim to gradually move from analysis to interve
  Recently, I have been focusing on (1) Evaluation of LLM to enhance its reasoning on planning (2) Evaluation of LLM on its multilinguality (3) Application of AI in the aspect of cultural understanding and (4) Mechanistic Interpretibility of Language models. -->
 
 ## Education
-- **Korea Advanced Institue of Science and Technology (KAIST)** (Sep 2024 - Present)
+- **Korea Advanced Institute of Science and Technology (KAIST)** (Sep 2026 - Present)
+    - Ph.D. student in [School of Computing](https://cs.kaist.ac.kr/)
+    - Advisor: Alice Oh
+- **Korea Advanced Institute of Science and Technology (KAIST)** (Sep 2024 - Aug 2026)
     - M.S. in [School of Computing](https://cs.kaist.ac.kr/)
     - Advisor: Alice Oh
-- **Korea Advanced Institue of Science and Technology (KAIST)** (Feb 2019 - Aug 2024)
+- **Korea Advanced Institute of Science and Technology (KAIST)** (Feb 2019 - Aug 2024)
     - B.S. in [School of Computing](https://cs.kaist.ac.kr/)(Major) and [Mathematical Sciences](https://mathsci.kaist.ac.kr/home/)(Minor), [Electrical Engineering](https://ee.kaist.ac.kr/) and [Bio and Brain engineering](https://bioeng.kaist.ac.kr/) (Individually designed major)
 
 ## Publications
