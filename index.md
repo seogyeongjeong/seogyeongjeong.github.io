@@ -52,9 +52,10 @@ Building on this understanding, I aim to gradually move from analysis to interve
     - B.S. in [School of Computing](https://cs.kaist.ac.kr/)(Major) and [Mathematical Sciences](https://mathsci.kaist.ac.kr/home/)(Minor), [Electrical Engineering](https://ee.kaist.ac.kr/) and [Bio and Brain engineering](https://bioeng.kaist.ac.kr/) (Individually designed major)
 
 ## Publications
-1. **\*Seogyeong Jeong**, \*Kiwoong Park, Seyoung Song, Eunsu Kim, Ken E. Friedl, Jaeho Kim, Alice Oh. 2026. [LoCar: Localization-Aware Evaluation of In-Vehicle Assistants through Fine-Grained Sociolinguistic Control.](https://arxiv.org/abs/2605.21086) In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)(ACL-Industry2026)* 
-2. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. [MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language.](https://arxiv.org/abs/2505.14395) In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Long)*. Also presented at the *5th Workshop on Multilingual Representation Learning (MRL 2025)*. 
-3. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. [LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation.](https://arxiv.org/abs/2503.07237) In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)*  [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
+1. **Seogyeong Jeong**, Jaehui Hwang, Dongyoon Han, Geonmo Gu, Alice Oh, Taekyung Kim. 2026. Beneath the Surface of Chain-of-Thoughts: A Mechanistic Interpretation of Reasoning Operations in LLMs. To appear in *The 2026 Conference on Empirical Methods in Natural Language Processing(Main Conference)*. Also to be presented at *The Ninth Workshop on Analyzing and Interpreting Neural Networks for NLP (BlackboxNLP 2026)*.
+2. **\*Seogyeong Jeong**, \*Kiwoong Park, Seyoung Song, Eunsu Kim, Ken E. Friedl, Jaeho Kim, Alice Oh. 2026. [LoCar: Localization-Aware Evaluation of In-Vehicle Assistants through Fine-Grained Sociolinguistic Control.](https://arxiv.org/abs/2605.21086) In *Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 6: Industry Track)(ACL-Industry2026)* 
+3. \*Seyoung Song, **\*Seogyeong Jeong**, Eunsu Kim, Jiho Jin, Dongkwan Kim, Jay Shin, Alice Oh. 2025. [MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language.](https://arxiv.org/abs/2505.14395) In *Findings of the Association for Computational Linguistics: EMNLP 2025 (Long)*. Also presented at the *5th Workshop on Multilingual Representation Learning (MRL 2025)*. 
+4. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. [LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation.](https://arxiv.org/abs/2503.07237) In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)*  [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
 
 ## Preprint
 1. Haeun Yu, **Seogyeong Jeong**, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. 2025. [Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models.](https://arxiv.org/abs/2508.08879) *arXiv preprint* 
@@ -64,6 +65,7 @@ Building on this understanding, I aim to gradually move from analysis to interve
 - [NAVER AI LAB Backbone Team](https://naver-career.gitbook.io/en/positions/ai-ml/backbone-research) *Mar 2026 - Current*
   - *Research Intern*
   - Latent representation, LLM reasoning
+  - Published incoming paper at EMNLP 2026 Main Conference (Beneath the Surface of Chain-of-Thoughts: A Mechanistic Interpretation of Reasoning Operations in LLMs.)
 - [User & Information Lab](https://uilab.kr/) *Jun 2022 - Aug 2024*
   - *Research Intern*
   - Graph Neural Network, Text sentiment classification
