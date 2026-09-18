@@ -58,11 +58,12 @@ Building on this understanding, I aim to gradually move from analysis to interve
 4. \*Junyeong Park, **\*Seogyeong Jeong**, \*Seyoung Song, Yohan Lee, Alice Oh. 2025. [LLM-C3MOD: A Human-LLM Collaborative System for Cross-Cultural Hate Speech Moderation.](https://arxiv.org/abs/2503.07237) In *NAACL 2025 Workshop - C3NLP(Workshop on Cross-Cultural Considerations in NLP)*  [\[Slides\]](https://docs.google.com/presentation/d/1vrY2a9SjjJcQppSSRhxNuJyC0pyzdlxPdgk0KB6Lfp4) [\[Poster\]](/materials/LLM-C3MOD.pdf)
 
 ## Preprint
-1. Haeun Yu, **Seogyeong Jeong**, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. 2025. [Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models.](https://arxiv.org/abs/2508.08879) *arXiv preprint* 
-2. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. [MSTS: A Multimodal Safety Test Suite for Vision-Language Models.](https://arxiv.org/abs/2501.10057) *arXiv preprint* 
+1. Soyeon Park, **\*Seogyeong Jeong**, \*Sunwoo Kim, Alice Oh. 2026. [The Role of Fine-grained Harm Signals in LLM Safety](https://arxiv.org/abs/2609.19366) *arXiv preprint*
+2. Haeun Yu, **Seogyeong Jeong**, Siddhesh Pawar, Jisu Shin, Jiho Jin, Junho Myung, Alice Oh, Isabelle Augenstein. 2025. [Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models.](https://arxiv.org/abs/2508.08879) *arXiv preprint* 
+3. Paul Röttger, Giuseppe Attanasio, Felix Friedrich, Janis Goldzycher, Alicia Parrish, Rishabh Bhardwaj, Chiara Di Bonaventura, Roman Eng, Gaia El Khoury Geagea, Sujata Goswami, Jieun Han, Dirk Hovy, **Seogyeong Jeong**, Paloma Jeretič, Flor Miriam Plaza-del-Arco, Donya Rooein, Patrick Schramowski, Anastassia Shaitarova, Xudong Shen, Richard Willats, Andrea Zugarini, Bertie Vidgen. 2025. [MSTS: A Multimodal Safety Test Suite for Vision-Language Models.](https://arxiv.org/abs/2501.10057) *arXiv preprint* 
 
 ## Work Experience
-- [NAVER AI LAB Backbone Team](https://naver-career.gitbook.io/en/positions/ai-ml/backbone-research) *Mar 2026 - Current*
+- [NAVER AI LAB](https://naver-career.gitbook.io/en/positions/ai-ml) *Mar 2026 - Sep 2026*
   - *Research Intern*
   - Latent representation, LLM reasoning
   - Published incoming paper at EMNLP 2026 Main Conference (Beneath the Surface of Chain-of-Thoughts: A Mechanistic Interpretation of Reasoning Operations in LLMs.)
